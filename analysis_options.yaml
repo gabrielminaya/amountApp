@@ -1,0 +1,6 @@
+include: package:lint/analysis_options.yaml
+
+linter:
+  rules:
+    sort_pub_dependencies: false
+    prefer_const_constructors_in_immutables: false
